@@ -200,6 +200,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+
 @media (max-width: 767px) {
   .container {
     padding-left: 20px;
@@ -1106,6 +1107,10 @@ p {
   background-color: var(--primary-dark);
   color: var(--white);
   box-shadow: 0px 0px 20px 0px var(--accent);
+}
+.about-five-content .about-five-tab nav button.normal {
+  background-color: var(--light-1);
+  color: var(----primary);
 }
 .about-five-content .about-five-tab nav button:last-child {
   margin-right: 0;
