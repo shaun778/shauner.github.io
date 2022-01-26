@@ -1110,7 +1110,7 @@ p {
 }
 .about-five-content .about-five-tab nav button.normal {
   background-color: var(--light-1);
-  color: var(----primary);
+  color: var(--primary);
 }
 .about-five-content .about-five-tab nav button:last-child {
   margin-right: 0;
